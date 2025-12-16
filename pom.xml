@@ -27,7 +27,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>github</id>
-			<url>https://maven.pkg.github.com/anaptecs/XXX</url>
+			<url>https://maven.pkg.github.com/anaptecs/jeaf-junit-extensions-impl</url>
 		</snapshotRepository>
 	</distributionManagement>
 
